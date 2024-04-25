@@ -1,0 +1,11 @@
+Bootstrap is a powerfull,feature packed frontend toolkit.Build anything-from prototype to production-in minutes.
+Bootstrap is a popular open-source front-end framework used for building responsive and mobile-first websites. It provides a collection of CSS and JavaScript components that streamline the process of creating user interfaces. With Bootstrap, developers can quickly design sleek, modern-looking websites without delving too deep into custom styling or scripting. It offers pre-designed templates, grid systems, typography, and other UI components, making it easier to create visually appealing and consistent web applications across different devices and screen sizes.
+SImagine Bootstrap as a toolbox filled with ready-made tools for building websites. It's like having a set of pre-designed parts that you can easily put together to create a nice-looking website. These parts include things like buttons, navigation bars, forms, and more. Bootstrap also helps your website look good on different devices, like phones and tablets, without you having to do a lot of extra work. It's great for beginners because it saves time and makes it easier to create professional-looking websites.
+Benefits:-
+    1-Makes development easier and faster
+    2-Good choice of pre-built components
+    3-Good browser compatiblity
+
+What we will cover?
+1-components-> pre-built and reuseable piece of user interface(UI) eg-button,forms
+2-Layout-> overall structure and arrangements of the elements eg-container,grid
